@@ -114,7 +114,7 @@ const FAQSection = () => {
                     {/* Leaderboard */}
                     <div className="text-center mb-4">
                       <h3 className="font-bold text-gray-900 mb-2">🏆 Leaderboard</h3>
-                      <div className="text-sm text-gray-600">Today's Top Players</div>
+                      <div className="text-sm text-gray-600">Today&apos;s Top Players</div>
                     </div>
                     
                     {/* Player Rankings */}
