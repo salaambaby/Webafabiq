@@ -23,7 +23,7 @@ const FAQSection = () => {
       answer: "Yes! Alphabiq supports both random matchmaking and private games with friends. Create a room, share the code, and challenge your friends to see who's the ultimate word master!"
     },
     {
-      question: "What happens if I can't complete all categories?",
+                    question: "What happens if I can&apos;t complete all categories?",
       answer: "Don't worry! You can still score points for completed categories. The game rewards partial completion, and you can use powerups to help fill difficult categories. Every word counts!"
     },
     {
@@ -86,7 +86,7 @@ const FAQSection = () => {
                 Still Need Help?
               </h3>
               <p className="text-gray-600 dark:text-gray-700 mb-4">
-                Can't find the answer you're looking for? Our support team is here to help!
+                Can&apos;t find the answer you&apos;re looking for? Our support team is here to help!
               </p>
               <button className="px-6 py-2 bg-gradient-to-r from-[#9F73FE] to-[#68D3FF] text-white font-semibold rounded-lg hover:from-[#8B5CF6] hover:to-[#60A5FA] transition-all duration-300">
                 Contact Support

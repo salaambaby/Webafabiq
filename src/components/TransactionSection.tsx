@@ -35,7 +35,7 @@ const TransactionSection = () => {
                 Time Extension
               </h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Add precious seconds to your timer when you're running out of time. 
+                Add precious seconds to your timer when you&apos;re running out of time. 
                 Perfect for those last-minute word completions!
               </p>
               
@@ -93,7 +93,7 @@ const TransactionSection = () => {
                 Word Hint System
               </h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Get a helpful hint when you're stuck on a category. 
+                Get a helpful hint when you&apos;re stuck on a category. 
                 Reveals the first letter of a valid word to get you back on track.
               </p>
               
